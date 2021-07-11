@@ -1,0 +1,42 @@
+.wrapper
+{
+    margin: 20px auto;
+    width: 800px;
+    text-align: left;
+}
+
+.row
+{
+    display: flex;
+    padding: 8px 0;
+}
+
+.col-id
+{
+    width: 40px;
+}
+
+.col-parent
+{
+    width: 40px;
+}
+
+.col-name
+{
+    width: 200px;
+}
+
+.col-email
+{
+    width: 220px;
+}
+
+.col-balance
+{
+    width: 100px;
+}
+
+.col-active
+{
+    width: 80px;
+}
